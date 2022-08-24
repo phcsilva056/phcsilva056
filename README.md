@@ -4,7 +4,7 @@
 </div>
 
 <p align="justify" style = "text-indent:20px">
-Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas estou estudando em um bootcamp de Desenvolvimento Web Full Stack e cursando Engenharia da Computação, quero desenvolver a cada tempo uma paixão maior pela programação e adaptar ainda mais ao meu estilo de vida
+Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas estou estudando em um bootcamp de Desenvolvimento Web Full Stack e cursando Engenharia da Computação, quero desenvolver com o tempo uma paixão maior pela programação e adaptar ainda mais ao meu estilo de vida
 </p>
 
 <h3 align="left">Me viro bem com isso aqui:</h3>
