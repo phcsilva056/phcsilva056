@@ -1,11 +1,18 @@
-## Olá, eu sou o Paulo Henrique 👋
-<div align="center">
-<img width="400px" src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif"/>
-</div>
+<h2>Olá, eu sou o Paulo Henrique 👋<h2>
 
-<p align="justify" style = "text-indent:20px">
-Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas estou estudando em um bootcamp de Desenvolvimento Web Full Stack e cursando Engenharia da Computação, quero desenvolver com o tempo uma paixão maior pela programação e adaptar ainda mais ao meu estilo de vida
-</p>
+<table align="center">
+<td width="40%">
+<img align="right" src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif"/>
+</td>
+
+<td>
+<hr />
+<p  align="left">
+Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas estou estudando em um bootcamp de Desenvolvimento Web Full Stack e cursando Engenharia da Computação, quero desenvolver com o tempo uma paixão maior pela programação e adaptar ainda mais ao meu estilo de vida.
+</p >
+<hr />
+</td>
+</table>
 
 <h3 align="left">Me viro bem com isso aqui:</h3>
 <p align="left"> 
