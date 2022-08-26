@@ -7,9 +7,9 @@
 
 <td>
 <hr />
-<p  align="left">
+<h4 align="left">
 Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo profissionalmente na área de programação mas estou estudando em um bootcamp de Desenvolvimento Web Full Stack e cursando Engenharia da Computação, quero desenvolver com o tempo uma paixão maior pela programação e adaptar ainda mais ao meu estilo de vida.
-</p >
+</h4>
 <hr />
 </td>
 </table>
