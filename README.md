@@ -53,3 +53,4 @@
             alt="typescript" width="40" height="40" />
     </a>
 </p>
+<h3 align="left">Mas se precisar me viro com qualquer uma... 🤭</h3>
