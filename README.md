@@ -1,15 +1,18 @@
-<hr/>
+<hr />
 <h3>Olá, sou o Paulo Henrique 👋</h3>
 <h4 align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gosto bastante de programação, músicas,
-  animes e jogos, atualmente não atuo profissionalmente na área de programação
-  mas com ambição de iniciar carreira na área, estou estudando em um bootcamp de
-  Desenvolvimento Web Full Stack e cursando Engenharia da Computação, quero
-  desenvolver com o tempo uma paixão maior pela programação e adaptar ainda mais
-  ao meu estilo de vida.
+  Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo
+  profissionalmente na área de programação mas com ambição de iniciar carreira
+  na área, mas estou práticando em um trabalho voluntário na
+  <a href="https://www.linkedin.com/company/lacrei/?originalSubdomain=br"
+    >Lacrei</a
+  >, estou cursando Engenharia da Computação, quero desenvolver com o tempo uma
+  paixão maior pela programação e adaptar ainda mais ao meu estilo de vida.
 </h4>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif"/>
+  <img
+    src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif"
+  />
 </div>
 <h3 align="left">Me viro bem com isso aqui:</h3>
 <p align="left">
@@ -83,4 +86,4 @@
   </a>
 </p>
 <h4 align="left">Mas se precisar me viro com qualquer tecnologia... 🤭📚</h4>
-<hr/>
+<hr />
