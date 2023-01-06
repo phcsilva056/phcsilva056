@@ -6,7 +6,7 @@
   na área, mas estou práticando em um trabalho voluntário na
   <a href="https://www.linkedin.com/company/lacrei/?originalSubdomain=br"
     >Lacrei</a
-  >, estou cursando Engenharia da Computação, quero desenvolver com o tempo uma
+  > como Front-End, estou cursando Engenharia da Computação, quero desenvolver com o tempo uma
   paixão maior pela programação e adaptar ainda mais ao meu estilo de vida.
 </h4>
 <div align="center">
