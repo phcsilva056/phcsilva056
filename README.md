@@ -14,7 +14,7 @@
     src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif"
   />
 </div>
-<h3 align="left">Me viro bem com isso aqui:</h3>
+<h3 align="left">Me viro bem com essas tecnologias:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
