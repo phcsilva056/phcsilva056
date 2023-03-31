@@ -1,89 +1,31 @@
-<hr />
-<h3>Olá, sou o Paulo Henrique 👋</h3>
-<h4 align="justify">
-  Gosto bastante de programação, músicas, animes e jogos, atualmente não atuo
-  profissionalmente na área de programação mas com ambição de iniciar carreira
-  na área, mas estou práticando em um trabalho voluntário na
-  <a href="https://www.linkedin.com/company/lacrei/?originalSubdomain=br"
-    >Lacrei</a
-  > como Front-End, estou cursando Engenharia da Computação, quero desenvolver com o tempo uma
-  paixão maior pela programação e adaptar ainda mais ao meu estilo de vida.
-</h4>
+<h1 align="center">Olá, sou o Paulo Henrique 👋</h1>
+<h3 align="center">Estudante de Engenharia da Computação, apaixonado por programação, música, animes e jogos.</h3>
 <div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif"
-  />
+  <img src="https://user-images.githubusercontent.com/104540624/186406567-31e971b4-9c79-461a-be7c-d2a76fce485c.gif" alt="GIF" width="500" height="320" />
 </div>
-<h3 align="left">Me viro bem com essas tecnologias:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+<h2 align="center">💻 Desenvolvedor Fullstack 💻</h2>
+<h2 align="center">🚀 Tecnologias que domino 🚀</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 </p>
-<h4 align="left">Mas se precisar me viro com qualquer tecnologia... 🤭📚</h4>
-<hr />
+<h2 align="center">👀 Projetos que já atuei 👀</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/company/lacrei/?originalSubdomain=br"
+         >Lacrei</a> - Projeto voluntário como Dev Frontend por 7 meses</li>
+</ul>
+<h2 align="center">📚 O que estou aprendendo 📚</h2>
+<p align="center">
+  Atualmente estou me dedicando a estudar e me aprofundar em Backend.
+</p>
+<h2 align="center">📫 Como entrar em contato 📫</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/phcsilva056/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+<h2 align="center">😄 Obrigado
