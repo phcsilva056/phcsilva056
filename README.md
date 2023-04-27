@@ -22,7 +22,7 @@
 </ul>
 <h2 align="center">📚 O que estou aprendendo 📚</h2>
 <p align="center">
-  Atualmente estou me dedicando a estudar e me aprofundar em Backend.
+  Atualmente estou estudando e me aprofundar em Backend.
 </p>
 <h2 align="center">📫 Como entrar em contato 📫</h2>
 <p align="center">
